@@ -1,7 +1,16 @@
-## Hi there 👋
+# Hi, everyone! 💃
+### Last Updated: 06/10/2024
+My name is Indira (in-deer-uh, she/her) and I'm a CS major at the Georgia Institute of Technology concentrating in Intelligence and Systems & Architecture.
 
-<!--
-**itatikola/itatikola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for making technology that makes our world more accessible and making technology more accessible for everyone in the world.
+
+👩‍💻 I'm currently working on an in-depth JavaScript project on [my personal website](www.itatikola.com) to help me with my intern project this summer at Akamai Technologies.
+
+### Please visit my portfolio site (linked above ⬆️) for my contact information and detailed blogs on my projects. 
+Feel free to contact me through any professional platform!
+
+
+<!--**itatikola/itatikola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
