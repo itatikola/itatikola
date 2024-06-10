@@ -1,25 +1,11 @@
 # Hi, everyone! 💃
 ### Last Updated: 06/10/2024
-My name is Indira (in-deer-uh, she/her) and I'm a CS major at the Georgia Institute of Technology concentrating in Intelligence and Systems & Architecture.
+My name is Indira (in-deer-uh, she/her) and I'm a rising junior studying CS at the Georgia Institute of Technology concentrating in Intelligence and Systems & Architecture.
 
-I have a passion for making technology that makes our world more accessible and making technology more accessible for everyone in the world.
+👩‍💻 I'm currently working on an in-depth JavaScript project to help me with my intern project this summer at Akamai Technologies.
 
-👩‍💻 I'm currently working on an in-depth JavaScript project on [my personal website](www.itatikola.com) to help me with my intern project this summer at Akamai Technologies.
+🔗 I'm also looking for summer 2025 internships in software engineering. If you're a recruiter, please reach out! I would love to learn more about your company's early career opportunities and culture.
 
-### Please visit my portfolio site (linked above ⬆️) for my contact information and detailed blogs on my projects. 
+### Please visit [my portfolio site](www.itatikola.com) for my contact information and detailed blogs on my projects. 
+
 Feel free to contact me through any professional platform!
-
-
-<!--**itatikola/itatikola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
