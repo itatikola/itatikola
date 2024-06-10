@@ -1,4 +1,4 @@
-# Hi, everyone! 💃
+# Hello! 
 ### Last Updated: 06/10/2024
 My name is Indira (in-deer-uh, she/her) and I'm a rising junior studying CS at the Georgia Institute of Technology concentrating in Intelligence and Systems & Architecture.
 
