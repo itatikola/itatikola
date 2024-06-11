@@ -6,6 +6,6 @@
 
 🔗 I'm also looking for summer 2025 internships in software engineering. If you're a recruiter, please reach out! I would love to learn more about your company's early career opportunities and culture.
 
-### Please visit [www.itatikola.com](www.itatikola.com) for my contact information and detailed blogs on my projects. 
+### Please visit www.itatikola.com for my contact information and detailed blogs on my projects. 
 
 Feel free to contact me through any professional platform!
